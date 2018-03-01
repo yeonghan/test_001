@@ -1,0 +1,1206 @@
+------------------------------------------------
+VQCKPAP1501
+4
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       8061376    7833804     227572          0     416168    5429128
+-/+ buffers/cache:    1988508    6072868
+Swap:      4194296       7804    4186492
+Filesystem                           Size  Used Avail Use% Mounted on
+/dev/sda1                             20G  6.3G   14G  32% /
+tmpfs                                3.9G     0  3.9G   0% /dev/shm
+/dev/sda3                             75G   39G   36G  52% /home
+10.134.3.202:/vol/vol_corekago_back  812G  606G  207G  75% /backup
+------------------------------------------------
+VSBKCAD1501
+4
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       8061376    2567808    5493568          0     354404    1162396
+-/+ buffers/cache:    1051008    7010368
+Swap:      4194296          0    4194296
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        20G  4.5G   16G  23% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+/dev/sda3        75G  1.6G   74G   3% /home
+------------------------------------------------
+VHSRHAD1501
+4
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924440    3451548     472892          0    1414128     182728
+-/+ buffers/cache:    1854692    2069748
+Swap:      4194296     355172    3839124
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        20G  5.6G   15G  29% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+/dev/sda3       125G   53G   72G  43% /home
+------------------------------------------------
+VHDLPAD1501
+4
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924440    2941456     982984          0     360252    1742264
+-/+ buffers/cache:     838940    3085500
+Swap:      4194296          0    4194296
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        20G  4.6G   16G  24% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+/dev/sda3        75G  1.6G   74G   3% /home
+------------------------------------------------
+VSNIDAP1516
+4
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924440    3233152     691288          0     271516    1018432
+-/+ buffers/cache:    1943204    1981236
+Swap:      4194296     297388    3896908
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        20G  4.2G   16G  21% /
+tmpfs           1.9G   12K  1.9G   1% /dev/shm
+/dev/sda3        75G  7.3G   68G  10% /home
+------------------------------------------------
+VSNIDAP1515
+4
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924440    3245564     678876          0     263128    1048388
+-/+ buffers/cache:    1934048    1990392
+Swap:      4194296     309468    3884828
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        20G  4.2G   16G  21% /
+tmpfs           1.9G   12K  1.9G   1% /dev/shm
+/dev/sda3        75G  7.2G   68G  10% /home
+------------------------------------------------
+VSNIDAP1514
+4
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924440    3248696     675744          0     263608    1031728
+-/+ buffers/cache:    1953360    1971080
+Swap:      4194296     307824    3886472
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        20G  4.2G   16G  21% /
+tmpfs           1.9G   12K  1.9G   1% /dev/shm
+/dev/sda3        75G  7.2G   68G  10% /home
+------------------------------------------------
+VSNIDAP1513
+4
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924440    3244960     679480          0     261576    1066760
+-/+ buffers/cache:    1916624    2007816
+Swap:      4194296     328136    3866160
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        20G  4.2G   16G  21% /
+tmpfs           1.9G   12K  1.9G   1% /dev/shm
+/dev/sda3        75G  7.2G   68G  10% /home
+------------------------------------------------
+VSNIDAP1512
+4
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924440    3217336     707104          0     280492    1004180
+-/+ buffers/cache:    1932664    1991776
+Swap:      4194296     188136    4006160
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        20G  4.2G   16G  21% /
+tmpfs           1.9G   12K  1.9G   1% /dev/shm
+/dev/sda3        75G  6.9G   68G  10% /home
+------------------------------------------------
+VHDLPWB1502
+4
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924440    3609820     314620          0     389872    2478012
+-/+ buffers/cache:     741936    3182504
+Swap:      4194296        116    4194180
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        20G  4.6G   16G  24% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+/dev/sda3        75G  1.7G   74G   3% /home
+------------------------------------------------
+VHDLPWB1501
+4
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924440    3721904     202536          0     390668    2583624
+-/+ buffers/cache:     747612    3176828
+Swap:      4194296         60    4194236
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        20G  4.6G   16G  24% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+/dev/sda3        75G  1.7G   74G   3% /home
+------------------------------------------------
+VHOTPAD1502
+4
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924440    3576440     348000          0     379908    2538732
+-/+ buffers/cache:     657800    3266640
+Swap:      4194296        132    4194164
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1       9.9G  4.1G  5.8G  42% /
+tmpfs           1.9G  8.0K  1.9G   1% /dev/shm
+/dev/sda3       134G  1.9G  133G   2% /home
+------------------------------------------------
+VHOTPAD1501
+4
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924440    3781128     143312          0     347524    1794092
+-/+ buffers/cache:    1639512    2284928
+Swap:      4194296       5380    4188916
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1       9.9G  4.1G  5.9G  41% /
+tmpfs           1.9G  8.0K  1.9G   1% /dev/shm
+/dev/sda3       134G  2.1G  132G   2% /home
+------------------------------------------------
+VTCMNWB1521
+4
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924636    3086592     838044          0     309512     989824
+-/+ buffers/cache:    1787256    2137380
+Swap:      4194296       8368    4185928
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.5G  6.5G  35% /
+tmpfs                 1.9G     0  1.9G   0% /dev/shm
+/dev/sda3              85G  3.2G   82G   4% /home
+10.134.3.203:/vol/vol_novel_real
+                      200G   12G  189G   6% /data/files/novel
+------------------------------------------------
+VTCMNWB1520
+4
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924636    3153424     771212          0     303700    1092600
+-/+ buffers/cache:    1757124    2167512
+Swap:      4194296       9712    4184584
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.6G  6.3G  37% /
+tmpfs                 1.9G     0  1.9G   0% /dev/shm
+/dev/sda3              85G  3.2G   82G   4% /home
+10.134.3.203:/vol/vol_novel_real
+                      200G   12G  189G   6% /data/files/novel
+------------------------------------------------
+VTAPIWB1512
+4
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924636    2759040    1165596          0     294688    1136524
+-/+ buffers/cache:    1327828    2596808
+Swap:      4194296      22180    4172116
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.8G  6.1G  39% /
+tmpfs                 1.9G     0  1.9G   0% /dev/shm
+/dev/sda3              85G  3.9G   81G   5% /home
+------------------------------------------------
+VTAPIWB1511
+4
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924636    3709388     215248          0     293196    1176352
+-/+ buffers/cache:    2239840    1684796
+Swap:      4194296      27416    4166880
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.8G  6.2G  38% /
+tmpfs                 1.9G     0  1.9G   0% /dev/shm
+/dev/sda3              85G  6.3G   79G   8% /home
+------------------------------------------------
+VTAPIWB1510
+4
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924636    3678288     246348          0     290816    1154908
+-/+ buffers/cache:    2232564    1692072
+Swap:      4194296      18400    4175896
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  4.2G  5.8G  43% /
+tmpfs                 1.9G     0  1.9G   0% /dev/shm
+/dev/sda3              85G  6.4G   79G   8% /home
+------------------------------------------------
+VTAPIWB1509
+4
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924636    3588472     336164          0     280904    1127232
+-/+ buffers/cache:    2180336    1744300
+Swap:      4194296      31912    4162384
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  4.1G  5.8G  42% /
+tmpfs                 1.9G     0  1.9G   0% /dev/shm
+/dev/sda3              85G  6.4G   79G   8% /home
+------------------------------------------------
+VTAPIWB1508
+4
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924636    3582216     342420          0     268072    1062564
+-/+ buffers/cache:    2251580    1673056
+Swap:      4194296      16308    4177988
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  4.0G  5.9G  41% /
+tmpfs                 1.9G     0  1.9G   0% /dev/shm
+/dev/sda3              85G  6.5G   79G   8% /home
+------------------------------------------------
+VSTSUDE1501
+4
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924636    3421048     503588          0     248740     852388
+-/+ buffers/cache:    2319920    1604716
+Swap:      4194296    2548700    1645596
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.2G  6.7G  33% /
+tmpfs                 1.9G     0  1.9G   0% /dev/shm
+/dev/sda3              85G   23G   63G  27% /home
+------------------------------------------------
+VHGAMAE1504
+------------------------------------------------
+VHGAMAE1503
+------------------------------------------------
+VHGAMAE1502
+1
+model name	:      Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+             total       used       free     shared    buffers     cached
+Mem:       4044596    4014848      29748          0     116980     277972
+-/+ buffers/cache:    3619896     424700
+Swap:      4192956    1120588    3072368
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             2.0G  492M  1.5G  25% /
+/dev/sda7              62G  2.7G   57G   5% /home
+/dev/sda6             996M   93M  852M  10% /tmp
+/dev/sda5             996M  131M  814M  14% /var
+/dev/sda2             7.8G  2.8G  4.6G  39% /usr
+tmpfs                 2.0G     0  2.0G   0% /dev/shm
+------------------------------------------------
+VHCSLTS1501
+4
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924280    3791844     132436        260     225952    1048300
+-/+ buffers/cache:    2517592    1406688 
+Swap:      4194300        204    4194096 
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        20G  6.1G   14G  31% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+/dev/sda3        75G  6.8G   68G  10% /home
+------------------------------------------------
+VSLINAE1501
+1
+model name	:      Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+             total       used       free     shared    buffers     cached
+Mem:       4044596    3146244     898352          0     380248    1101000
+-/+ buffers/cache:    1664996    2379600
+Swap:      8385792        108    8385684
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             3.9G  325M  3.6G   9% /
+/dev/sda10             43G  5.5G   36G  14% /home
+/dev/sda9             2.0G  125M  1.8G   7% /tmp
+/dev/sda8             2.0G  193M  1.7G  11% /var
+/dev/sda3              20G  2.8G   16G  16% /usr
+tmpfs                 2.0G     0  2.0G   0% /dev/shm
+------------------------------------------------
+VSCMNAE1501
+1
+model name	:      Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+             total       used       free     shared    buffers     cached
+Mem:       4044596     734728    3309868          0     229348     373184
+-/+ buffers/cache:     132196    3912400
+Swap:      8385792          0    8385792
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             3.9G  458M  3.5G  12% /
+/dev/sda10             62G  1.6G   58G   3% /home
+/dev/sda9             2.0G  125M  1.8G   7% /tmp
+/dev/sda8             2.0G  133M  1.8G   8% /var
+/dev/sda3              20G  2.3G   17G  13% /usr
+tmpfs                 2.0G     0  2.0G   0% /dev/shm
+------------------------------------------------
+VHWDVAE1503
+1
+model name	:      Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+             total       used       free     shared    buffers     cached
+Mem:       4044596    2237992    1806604          0     448600     831396
+-/+ buffers/cache:     957996    3086600
+Swap:      8385792          0    8385792
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             3.9G  336M  3.6G   9% /
+/dev/sda10             62G  1.7G   58G   3% /home
+/dev/sda9             2.0G   36M  1.9G   2% /tmp
+/dev/sda8             2.0G  208M  1.7G  12% /var
+/dev/sda3              20G  2.4G   16G  13% /usr
+tmpfs                 2.0G     0  2.0G   0% /dev/shm
+------------------------------------------------
+VHPLTTS1501
+1
+model name	:      Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+             total       used       free     shared    buffers     cached
+Mem:       4044596    4016744      27852          0     307168    3256276
+-/+ buffers/cache:     453300    3591296
+Swap:      4192956      33592    4159364
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             2.0G  621M  1.4G  32% /
+/dev/sda7              62G   32G   26G  56% /home
+/dev/sda6             996M  124M  821M  14% /tmp
+/dev/sda5             2.0G  233M  1.7G  13% /var
+/dev/sda2             7.8G  2.5G  4.9G  34% /usr
+tmpfs                 2.0G     0  2.0G   0% /dev/shm
+------------------------------------------------
+VHAVAAE1502
+1
+model name	:      Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+             total       used       free     shared    buffers     cached
+Mem:       4044596    4017696      26900          0       2812      93300
+-/+ buffers/cache:    3921584     123012
+Swap:      2096472    1515436     581036
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             7.8G  395M  7.4G   5% /
+/dev/sda7              41G  2.8G   36G   8% /home
+/dev/sda6             3.9G  162M  3.6G   5% /tmp
+/dev/sda5             3.9G  172M  3.6G   5% /var
+/dev/sda3              20G  2.8G   16G  16% /usr
+tmpfs                 2.0G     0  2.0G   0% /dev/shm
+------------------------------------------------
+VHPLTAE1502
+1
+model name	:      Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+             total       used       free     shared    buffers     cached
+Mem:       2059580    1801084     258496          0     448380     626528
+-/+ buffers/cache:     726176    1333404
+Swap:      2096472          0    2096472
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             7.8G  439M  7.4G   6% /
+/dev/sda7              41G  1.7G   37G   5% /home
+/dev/sda6             3.9G  159M  3.6G   5% /tmp
+/dev/sda5             3.9G  169M  3.6G   5% /var
+/dev/sda3              20G  2.4G   17G  13% /usr
+tmpfs                1006M     0 1006M   0% /dev/shm
+------------------------------------------------
+VHCMNAE1507
+1
+model name	:      Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+             total       used       free     shared    buffers     cached
+Mem:       2059580     975560    1084020          0     238028     418732
+-/+ buffers/cache:     318800    1740780
+Swap:      8385792          0    8385792
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             7.8G  533M  7.3G   7% /
+/dev/sda10             35G   14G   20G  41% /home
+/dev/sda6             3.9G  168M  3.6G   5% /var
+/dev/sda5             3.9G  148M  3.6G   4% /tmp
+/dev/sda3              20G  2.5G   16G  14% /usr
+tmpfs                1006M     0 1006M   0% /dev/shm
+------------------------------------------------
+VHPLTAE1501
+1
+model name	:      Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+             total       used       free     shared    buffers     cached
+Mem:       4044648    1336092    2708556          0     413264     450632
+-/+ buffers/cache:     472196    3572452
+Swap:      2096472          0    2096472
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             7.8G  386M  7.4G   5% /
+/dev/sda7              41G  1.7G   37G   5% /home
+/dev/sda6             3.9G   73M  3.7G   2% /tmp
+/dev/sda5             3.9G  169M  3.6G   5% /var
+/dev/sda3              20G  2.7G   16G  15% /usr
+tmpfs                 2.0G     0  2.0G   0% /dev/shm
+------------------------------------------------
+VHCMNAE1506
+1
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+             total       used       free     shared    buffers     cached
+Mem:       2075468     797824    1277644          0     328608     374832
+-/+ buffers/cache:      94384    1981084
+Swap:      2096472          0    2096472
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             7.8G  325M  7.5G   5% /
+/dev/sda7              41G  1.5G   38G   4% /home
+/dev/sda6             3.9G   73M  3.7G   2% /tmp
+/dev/sda5             3.9G  165M  3.6G   5% /var
+/dev/sda3              20G  2.0G   17G  11% /usr
+tmpfs                1014M     0 1014M   0% /dev/shm
+------------------------------------------------
+VHCMNAE1505
+1
+model name	:      Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+             total       used       free     shared    buffers     cached
+Mem:       4044596    1168716    2875880          0     361008     428808
+-/+ buffers/cache:     378900    3665696
+Swap:      4192956          0    4192956
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             2.0G  421M  1.6G  22% /
+/dev/sda7              62G  1.4G   57G   3% /home
+/dev/sda6             996M   34M  911M   4% /tmp
+/dev/sda5             2.0G  168M  1.7G   9% /var
+/dev/sda2             7.8G  2.0G  5.4G  27% /usr
+tmpfs                 2.0G     0  2.0G   0% /dev/shm
+------------------------------------------------
+VHWDVAE1501
+1
+model name	:      Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+             total       used       free     shared    buffers     cached
+Mem:       4044596    2193128    1851468          0     550628     943224
+-/+ buffers/cache:     699276    3345320
+Swap:      2096472          0    2096472
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             7.8G  395M  7.4G   5% /
+/dev/sda7              41G  1.9G   37G   5% /home
+/dev/sda6             3.9G   73M  3.7G   2% /tmp
+/dev/sda5             3.9G  169M  3.6G   5% /var
+/dev/sda3              20G  2.7G   16G  15% /usr
+tmpfs                 2.0G     0  2.0G   0% /dev/shm
+------------------------------------------------
+VHWDVAE1502
+1
+model name	:        Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       4044596    3550708     493888          0     900508    1412052
+-/+ buffers/cache:    1238148    2806448
+Swap:      2096472         96    2096376
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             7.8G  395M  7.4G   5% /
+/dev/sda7              41G  2.4G   37G   7% /home
+/dev/sda6             3.9G  162M  3.6G   5% /tmp
+/dev/sda5             3.9G  171M  3.6G   5% /var
+/dev/sda3              20G  2.6G   16G  14% /usr
+tmpfs                 2.0G     0  2.0G   0% /dev/shm
+------------------------------------------------
+VHCMNAE1502
+1
+model name	:      Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+             total       used       free     shared    buffers     cached
+Mem:       4044648    3959916      84732          0     366844     415068
+-/+ buffers/cache:    3178004     866644
+Swap:      2096472         88    2096384
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             7.8G  394M  7.4G   5% /
+/dev/sda7              41G  2.8G   36G   8% /home
+/dev/sda6             3.9G   73M  3.7G   2% /tmp
+/dev/sda5             3.9G  170M  3.6G   5% /var
+/dev/sda3              20G  2.9G   16G  16% /usr
+tmpfs                 2.0G     0  2.0G   0% /dev/shm
+------------------------------------------------
+VHAVAAE1501
+------------------------------------------------
+VCSYSAD1541
+2
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+              total        used        free      shared  buff/cache   available
+Mem:        1884384      571392      142396      135840     1170596      966768
+Swap:       4194300          80     4194220
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda2        10G  2.0G  8.1G  20% /
+devtmpfs        911M     0  911M   0% /dev
+tmpfs           921M     0  921M   0% /dev/shm
+tmpfs           921M  133M  788M  15% /run
+tmpfs           921M     0  921M   0% /sys/fs/cgroup
+/dev/sda5        86G  441M   86G   1% /home
+tmpfs           185M     0  185M   0% /run/user/10000
+tmpfs           185M     0  185M   0% /run/user/0
+------------------------------------------------
+VCSMECN1506
+2
+model name	: Intel(R) Xeon(R) CPU E5-2650L v4 @ 1.70GHz
+model name	: Intel(R) Xeon(R) CPU E5-2650L v4 @ 1.70GHz
+              total        used        free      shared  buff/cache   available
+Mem:        1884384      632204      118860      128724     1133320      922616
+Swap:       4194300         392     4193908
+------------------------------------------------
+VCSMECN1505
+2
+model name	: Intel(R) Xeon(R) CPU E5-2650L v4 @ 1.70GHz
+model name	: Intel(R) Xeon(R) CPU E5-2650L v4 @ 1.70GHz
+              total        used        free      shared  buff/cache   available
+Mem:        1884384      358868       98496       98788     1427020     1233092
+Swap:       4194300           0     4194300
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda3        96G   11G   86G  12% /
+devtmpfs        911M     0  911M   0% /dev
+tmpfs           921M   12K  921M   1% /dev/shm
+tmpfs           921M   97M  824M  11% /run
+tmpfs           921M     0  921M   0% /sys/fs/cgroup
+tmpfs           921M     0  921M   0% /run/shm
+tmpfs           185M     0  185M   0% /run/user/10000
+tmpfs           185M     0  185M   0% /run/user/0
+------------------------------------------------
+VPCMNAE1501
+4
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       1921860    1847388      74472        156     300480    1300016
+-/+ buffers/cache:     246892    1674968 
+Swap:      4194300          0    4194300 
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        20G  2.0G   18G  11% /
+tmpfs           939M     0  939M   0% /dev/shm
+/dev/sda3        75G  4.3G   71G   6% /home
+------------------------------------------------
+VCNWTTS1501
+2
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+             total       used       free     shared    buffers     cached
+Mem:       1922100    1794900     127200        328     296480    1272620
+-/+ buffers/cache:     225800    1696300 
+Swap:      4194300          0    4194300 
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        20G  2.0G   18G  11% /
+tmpfs           939M     0  939M   0% /dev/shm
+/dev/sda3        26G  2.4G   24G  10% /home
+------------------------------------------------
+VCWTDTD1501
+1
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       1922260    1848480      73780        736     212228     361160
+-/+ buffers/cache:    1275092     647168 
+Swap:      4194300       1340    4192960 
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1       9.8G  1.9G  7.9G  20% /
+tmpfs           939M     0  939M   0% /dev/shm
+/dev/sda3        36G   15G   22G  41% /home
+------------------------------------------------
+VCWTDAE1508
+1
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       1922260    1529748     392512        156     299212     952068
+-/+ buffers/cache:     278468    1643792 
+Swap:      4194300          0    4194300 
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        20G  2.0G   18G  10% /
+tmpfs           939M     0  939M   0% /dev/shm
+/dev/sda3        26G  759M   25G   3% /home
+------------------------------------------------
+VCWTDAE1507
+1
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       1922260    1216116     706144        156     296212     620324
+-/+ buffers/cache:     299580    1622680 
+Swap:      4194300          0    4194300 
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        20G  2.0G   18G  10% /
+tmpfs           939M     0  939M   0% /dev/shm
+/dev/sda3        26G  760M   25G   3% /home
+------------------------------------------------
+VCWTDAE1506
+1
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       1922260    1499532     422728        156     291112     940240
+-/+ buffers/cache:     268180    1654080 
+Swap:      4194300          0    4194300 
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        20G  2.0G   18G  10% /
+tmpfs           939M     0  939M   0% /dev/shm
+/dev/sda3        26G  759M   25G   3% /home
+------------------------------------------------
+VCWTDAE1502
+4
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924280    3585084     339196          4     269052     511224
+-/+ buffers/cache:    2804808    1119472 
+Swap:      4194300     176580    4017720 
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        20G  2.1G   18G  11% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+/dev/sda3        26G  3.0G   23G  12% /home
+------------------------------------------------
+VCWTDAE1501
+1
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       1922260    1844216      78044      11536     254000     135316
+-/+ buffers/cache:    1454900     467360 
+Swap:      4194300       6256    4188044 
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        20G  2.1G   18G  11% /
+tmpfs           939M     0  939M   0% /dev/shm
+/dev/sda3        26G  3.1G   23G  12% /home
+------------------------------------------------
+VPCMNTS1504
+1
+model name	:       Intel(R) Xeon(R) CPU E5-2660 v2 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       2058764    2046012      12752          0      59080     265428
+-/+ buffers/cache:    1721504     337260
+Swap:      4192956         80    4192876
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1              20G  2.7G   17G  14% /
+/dev/sda3              55G  4.4G   48G   9% /home
+tmpfs                1006M     0 1006M   0% /dev/shm
+------------------------------------------------
+VHCSLTS1502
+1
+model name	:        Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       2058764    1567488     491276          0     538056     862788
+-/+ buffers/cache:     166644    1892120
+Swap:      4192956          0    4192956
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1              20G  2.7G   17G  14% /
+/dev/sda3              55G  5.8G   46G  12% /home
+tmpfs                1006M     0 1006M   0% /dev/shm
+------------------------------------------------
+VHBLLBE1501
+4
+model name	: Intel(R) Xeon(R) CPU E5-2660 v2 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 v2 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 v2 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 v2 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924440    3556856     367584          0     327188    2194312
+-/+ buffers/cache:    1035356    2889084
+Swap:      4194296          0    4194296
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        20G  2.7G   18G  14% /
+tmpfs           1.9G   12K  1.9G   1% /dev/shm
+/dev/sda3        56G  1.8G   54G   4% /home
+------------------------------------------------
+VHBLLAE1501
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       1922268    1838020      84248          0     287340     732192
+-/+ buffers/cache:     818488    1103780
+Swap:      2097144        128    2097016
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        20G  2.7G   18G  14% /
+tmpfs           939M   12K  939M   1% /dev/shm
+/dev/sda3        58G  1.8G   56G   4% /home
+------------------------------------------------
+VPFBDGM1580
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924884    3808900     115984          0     298888     460368
+-/+ buffers/cache:    3049644     875240
+Swap:      4194296     489812    3704484
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.7G  6.2G  38% /
+tmpfs                 1.9G   12K  1.9G   1% /dev/shm
+/dev/sda3              85G   54G   32G  64% /home
+------------------------------------------------
+VPFBDGM1579
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924884    2768176    1156708          0     370020    1339240
+-/+ buffers/cache:    1058916    2865968
+Swap:      4194296          0    4194296
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.3G  6.6G  34% /
+tmpfs                 1.9G     0  1.9G   0% /dev/shm
+/dev/sda3              85G  2.0G   83G   3% /home
+------------------------------------------------
+VPFBDGM1578
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       8061820    4604568    3457252          0     329616    3527672
+-/+ buffers/cache:     747280    7314540
+Swap:      4194296          0    4194296
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  6.2G  3.8G  63% /
+tmpfs                 3.9G     0  3.9G   0% /dev/shm
+/dev/sda3              85G  2.0G   83G   3% /home
+------------------------------------------------
+VPFBDGM1577
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       8061820    5070436    2991384          0     380076    3916572
+-/+ buffers/cache:     773788    7288032
+Swap:      4194296          0    4194296
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  6.1G  3.8G  62% /
+tmpfs                 3.9G     0  3.9G   0% /dev/shm
+/dev/sda3              85G  2.0G   83G   3% /home
+------------------------------------------------
+VPFBDGM1576
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       8061820    4532884    3528936          0     349124    3517040
+-/+ buffers/cache:     666720    7395100
+Swap:      4194296          0    4194296
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  6.1G  3.8G  62% /
+tmpfs                 3.9G     0  3.9G   0% /dev/shm
+/dev/sda3              85G  2.0G   83G   3% /home
+------------------------------------------------
+VPFBDGM1575
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924884    3739164     185720          0     267912     522632
+-/+ buffers/cache:    2948620     976264
+Swap:      4194296    1013756    3180540
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.7G  6.3G  37% /
+tmpfs                 1.9G   12K  1.9G   1% /dev/shm
+/dev/sda3              85G  9.8G   75G  12% /home
+------------------------------------------------
+VPFBDGM1574
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       8061820    2236080    5825740          0     421436    1299076
+-/+ buffers/cache:     515568    7546252
+Swap:      4194296          0    4194296
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.0G  6.9G  30% /
+tmpfs                 3.9G     0  3.9G   0% /dev/shm
+/dev/sda3              85G  3.2G   82G   4% /home
+------------------------------------------------
+VPFBDGM1573
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924884    3808636     116248          0     298584     613232
+-/+ buffers/cache:    2896820    1028064
+Swap:      4194296      95012    4099284
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.7G  6.3G  37% /
+tmpfs                 1.9G   12K  1.9G   1% /dev/shm
+/dev/sda3              85G  3.3G   82G   4% /home
+------------------------------------------------
+VJTOPWB1502
+2
+model name	:       Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	:       Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+             total       used       free     shared    buffers     cached
+Mem:       2058716    2031164      27552          0     180092     644336
+-/+ buffers/cache:    1206736     851980
+Swap:      4192956         84    4192872
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1              74G  4.5G   70G   6% /
+tmpfs                1006M     0 1006M   0% /dev/shm
+------------------------------------------------
+VJTOPWB1501
+2
+model name	:       Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+model name	:       Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz
+             total       used       free     shared    buffers     cached
+Mem:       2058716    2010428      48288          0     162904     634256
+-/+ buffers/cache:    1213268     845448
+Swap:      4192956         84    4192872
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1              74G  4.5G   70G   7% /
+tmpfs                1006M     0 1006M   0% /dev/shm
+------------------------------------------------
+VPFBDTS1506
+4
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+             total       used       free     shared    buffers     cached
+Mem:       1922216    1773992     148224          0     344788     580692
+-/+ buffers/cache:     848512    1073704
+Swap:      4194296       9392    4184904
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1       9.9G  4.3G  5.6G  44% /
+tmpfs           939M     0  939M   0% /dev/shm
+/dev/sda3        65G  2.2G   63G   4% /home
+------------------------------------------------
+VPFBDTS1505
+4
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+             total       used       free     shared    buffers     cached
+Mem:       1922216    1856136      66080          0      47616      35488
+-/+ buffers/cache:    1773032     149184
+Swap:      4194296    1125236    3069060
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  4.2G  5.8G  42% /
+tmpfs                 939M   12K  939M   1% /dev/shm
+/dev/sda3              65G  5.2G   60G   8% /home
+------------------------------------------------
+VPFBDTS1504
+4
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+             total       used       free     shared    buffers     cached
+Mem:       1922216    1854288      67928          0       3512      17472
+-/+ buffers/cache:    1833304      88912
+Swap:      4194296    1547048    2647248
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  4.3G  5.7G  43% /
+tmpfs                 939M   12K  939M   1% /dev/shm
+/dev/sda3              65G   34G   32G  53% /home
+------------------------------------------------
+VPFBDTS1503
+4
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+             total       used       free     shared    buffers     cached
+Mem:       1922216    1834628      87588          0     292868     463104
+-/+ buffers/cache:    1078656     843560
+Swap:      4194296      89512    4104784
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1       9.9G  4.2G  5.8G  42% /
+tmpfs           939M     0  939M   0% /dev/shm
+/dev/sda3        65G  2.1G   63G   4% /home
+------------------------------------------------
+VPFBDTS1502
+4
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+             total       used       free     shared    buffers     cached
+Mem:       1922216    1761328     160888          0     286388     604060
+-/+ buffers/cache:     870880    1051336
+Swap:      4194296      63796    4130500
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.7G  6.3G  37% /
+tmpfs                 939M   12K  939M   1% /dev/shm
+/dev/sda3              65G   54G   12G  83% /home
+------------------------------------------------
+VPFBDTS1501
+4
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+             total       used       free     shared    buffers     cached
+Mem:       1922216    1850600      71616          0       5132      23544
+-/+ buffers/cache:    1821924     100292
+Swap:      4194296     613912    3580384
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  4.2G  5.7G  43% /
+tmpfs                 939M   12K  939M   1% /dev/shm
+/dev/sda3              65G   19G   47G  29% /home
+------------------------------------------------
+VYPFMAE1501
+1
+model name	:        Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       2058780    2019624      39156          0     172312    1101584
+-/+ buffers/cache:     745728    1313052
+Swap:      2096472         76    2096396
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1              76G  5.1G   71G   7% /
+tmpfs                1006M     0 1006M   0% /dev/shm
+------------------------------------------------
+VTDCATS1501
+4
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       1922020    1817796     104224          0     390740    1154916
+-/+ buffers/cache:     272140    1649880
+Swap:      4194296       5904    4188392
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        20G  4.5G   16G  23% /
+tmpfs           939M     0  939M   0% /dev/shm
+/dev/sda3        75G  823M   75G   2% /home
+------------------------------------------------
+VTDCATS1503
+4
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924636     777596    3147040          0     172564     384484
+-/+ buffers/cache:     220548    3704088
+Swap:      2097144          0    2097144
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda3              35G  3.4G   32G  10% /
+tmpfs                 1.9G     0  1.9G   0% /dev/shm
+/dev/sda2             7.9G  198M  7.7G   3% /home
+/dev/sda5              35G  177M   35G   1% /mysql
+------------------------------------------------
+VTDCATS1502
+4
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+model name	: Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924636    1071652    2852984          0     174840     390028
+-/+ buffers/cache:     506784    3417852
+Swap:      2097144          0    2097144
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda3              35G  3.7G   31G  11% /
+tmpfs                 1.9G     0  1.9G   0% /dev/shm
+/dev/sda2             7.9G  199M  7.7G   3% /home
+/dev/sda5              35G  177M   35G   1% /mysql
+------------------------------------------------
+VPFBDGM1572
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924884    3809660     115224          0     285752     646412
+-/+ buffers/cache:    2877496    1047388
+Swap:      4194296      88240    4106056
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.7G  6.3G  37% /
+tmpfs                 1.9G   12K  1.9G   1% /dev/shm
+/dev/sda3              85G  3.3G   82G   4% /home
+------------------------------------------------
+VPFBDGM1570
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924884    3718604     206280          0     275316     481448
+-/+ buffers/cache:    2961840     963044
+Swap:      4194296     918968    3275328
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.7G  6.3G  37% /
+tmpfs                 1.9G   12K  1.9G   1% /dev/shm
+/dev/sda3              85G  9.8G   75G  12% /home
+------------------------------------------------
+VPFBDGM1569
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       8061820    4522764    3539056          0     341472    3520932
+-/+ buffers/cache:     660360    7401460
+Swap:      4194296          0    4194296
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  6.2G  3.8G  63% /
+tmpfs                 3.9G     0  3.9G   0% /dev/shm
+/dev/sda3              85G  2.0G   83G   3% /home
+------------------------------------------------
+VPFBDGM1568
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       8061820    5757316    2304504          0     404816    4540760
+-/+ buffers/cache:     811740    7250080
+Swap:      4194296          0    4194296
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  6.1G  3.8G  62% /
+tmpfs                 3.9G     0  3.9G   0% /dev/shm
+/dev/sda3              85G  2.6G   83G   3% /home
+------------------------------------------------
+VPFBDGM1567
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       8061820    5022980    3038840          0     335292    1281392
+-/+ buffers/cache:    3406296    4655524
+Swap:      4194296          0    4194296
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.6G  6.4G  36% /
+tmpfs                 3.9G   12K  3.9G   1% /dev/shm
+/dev/sda3              85G  6.0G   79G   8% /home
+------------------------------------------------
+VPFBDGM1562
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       8061820    2224844    5836976          0     421324    1293208
+-/+ buffers/cache:     510312    7551508
+Swap:      4194296          0    4194296
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.0G  6.9G  30% /
+tmpfs                 3.9G     0  3.9G   0% /dev/shm
+/dev/sda3              85G  3.2G   82G   4% /home
+------------------------------------------------
+VPFBDGM1561
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       8061820    2100568    5961252          0     320964    1379504
+-/+ buffers/cache:     400100    7661720
+Swap:      4194296      40288    4154008
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.0G  6.9G  30% /
+tmpfs                 3.9G     0  3.9G   0% /dev/shm
+/dev/sda3              85G  3.8G   81G   5% /home
+------------------------------------------------
+VPFBDGM1560
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       8061820    2251212    5810608          0     419896    1318788
+-/+ buffers/cache:     512528    7549292
+Swap:      4194296          0    4194296
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.0G  6.9G  30% /
+tmpfs                 3.9G     0  3.9G   0% /dev/shm
+/dev/sda3              85G  3.3G   82G   4% /home
+------------------------------------------------
+VPFBDGM1556
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       8061820    2349152    5712668          0     421652    1378668
+-/+ buffers/cache:     548832    7512988
+Swap:      4194296          0    4194296
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.3G  6.7G  33% /
+tmpfs                 3.9G     0  3.9G   0% /dev/shm
+/dev/sda3              85G  2.0G   83G   3% /home
+------------------------------------------------
+VPFBDGM1555
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924884    3491428     433456          0     283900     323804
+-/+ buffers/cache:    2883724    1041160
+Swap:      4194296     706036    3488260
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.7G  6.3G  37% /
+tmpfs                 1.9G   12K  1.9G   1% /dev/shm
+/dev/sda3              85G   10G   75G  12% /home
+------------------------------------------------
+VPFBDGM1554
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       8061820    7916596     145224          0     293656     451360
+-/+ buffers/cache:    7171580     890240
+Swap:      4194296     108552    4085744
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.6G  6.4G  36% /
+tmpfs                 3.9G   12K  3.9G   1% /dev/shm
+/dev/sda3              85G  7.9G   77G  10% /home
+------------------------------------------------
+VPFBDGM1549
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924884    3462444     462440          0     345756    2611696
+-/+ buffers/cache:     504992    3419892
+Swap:      4194296       1412    4192884
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.7G  6.2G  38% /
+tmpfs                 1.9G     0  1.9G   0% /dev/shm
+/dev/sda3              85G  5.0G   80G   6% /home
+------------------------------------------------
+VPFBDGM1548
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       3924884    3575448     349436          0     287932    2013164
+-/+ buffers/cache:    1274352    2650532
+Swap:      4194296      14440    4179856
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.7G  6.2G  38% /
+tmpfs                 1.9G     0  1.9G   0% /dev/shm
+/dev/sda3              85G   11G   75G  12% /home
+------------------------------------------------
+VPFBDGM1547
+2
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+model name	: Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz
+             total       used       free     shared    buffers     cached
+Mem:       8061820    2268352    5793468          0     417552    1322852
+-/+ buffers/cache:     527948    7533872
+Swap:      4194296          0    4194296
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/sda1             9.9G  3.0G  6.9G  30% /
+tmpfs                 3.9G     0  3.9G   0% /dev/shm
+/dev/sda3              85G  3.2G   82G   4% /home
